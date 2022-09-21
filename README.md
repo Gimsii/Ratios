@@ -1,1 +1,2 @@
-# Ratios
+# Ratio
+Way to grab functions for Sharpe, Sortino, PSR ...
